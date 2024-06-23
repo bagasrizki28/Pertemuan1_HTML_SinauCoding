@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.section {
+  text-align: center;
+  padding: 50px 0;
+}
+
+#html {
+  background-color: #ffa07a;
+}
+
+#css {
+  background-color: #add8e6;
+}
+
+#js {
+  background-color: #fafad2;
+}
+
+.section h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-size: 32px;
+  margin: 20px 0;
+}
+
+#html h1 {
+  color: #ff4500;
+}
+
+#css h1 {
+  color: #3b84fa;
+}
+
+img {
+  max-width: 200px;
+}
+
+#js h1 {
+  color: #e4d47b;
+}
+
+.section p {
+  font-size: 14px;
+}
+
+.section a {
+  display: block;
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 14px;
+  text-decoration: none;
+  color: inherit;
+}

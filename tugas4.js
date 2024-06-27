@@ -6,7 +6,7 @@ function terminalTransjakarta() {
       console.log(`Bus transjakarta ${busNumber} sedang tidak beroperasi.`);
     } else if (busNumber == 8) {
       console.log(`Bus transjakarta ${busNumber} sedang Lembur.`);
-    } else if (busNumber >= 9) {
+    } else {
       console.log(`Bus transjakarta ${busNumber} sedang tidak beroperasi.`);
     }
   }
